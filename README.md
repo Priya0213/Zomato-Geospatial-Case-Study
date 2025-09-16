@@ -24,7 +24,7 @@ The case study demonstrates:
 ---
 
 ## 📂 Dataset
-- .[Zomato Restaurants Dataset](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants)
+[Zomato Restaurants Dataset](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants)
 
 ---
 
